@@ -28,7 +28,7 @@ let myChart = new Chart(wheel, {
   plugins: [ChartDataLabels],
   type: "pie",
   data: {
-    labels: ["Research", "Movie", "Go out", "Sleep", "Guitar", "Dinner"],
+    labels: ["Research", "Pray", "Go out", "Sleep", "Guitar", "Dinner"],
     tooltip: false,
     datasets: [
       {
